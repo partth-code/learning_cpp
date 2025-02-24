@@ -1,2 +1,2 @@
 # learning_cpp
-this repository is reeated to monitor my progress in cpp
+this repository is created to monitor my progress in cpp
